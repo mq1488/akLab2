@@ -1,0 +1,4 @@
+/home/ilia/Рабочий стол/lab2/akLab2/build/CMakeFiles/rebuild_cache.dir
+/home/ilia/Рабочий стол/lab2/akLab2/build/CMakeFiles/out.dir
+/home/ilia/Рабочий стол/lab2/akLab2/build/CMakeFiles/edit_cache.dir
+/home/ilia/Рабочий стол/lab2/akLab2/build/CMakeFiles/calc.dir
